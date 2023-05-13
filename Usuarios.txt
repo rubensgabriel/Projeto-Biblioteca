@@ -1,0 +1,7 @@
+Administrador
+Usuario: admin
+Senha: 123
+
+Usuário Normal
+Usuario: rubensg
+Senha: 123
